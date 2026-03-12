@@ -1,7 +1,7 @@
 # E-commerce_Data_Analysis_with_Python
 Analyze the ecommerce data with python and extract useful insights in jupyter notebook.
 
-#Business Questions for Sales Analysis
+# Business Questions for Sales Analysis
 
 Question 1:
 Calculate the monthly sales of the store and identify which month had the highest sales and which month had the lowest sales.
